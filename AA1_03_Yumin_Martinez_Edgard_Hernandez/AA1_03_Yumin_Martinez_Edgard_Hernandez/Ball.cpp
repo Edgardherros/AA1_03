@@ -6,7 +6,7 @@ void Player::init(std::string name, int position)
 	this->name = name;
 	this->position = position;
 	this->score = 0;
-	this->magazine = 30;
+	//this->magazine = 30;
 	
 
 }
